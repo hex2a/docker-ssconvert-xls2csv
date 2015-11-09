@@ -1,6 +1,6 @@
 # docker-ssconvert-xls2csv
 
-This Docker images converts .xls to .csv using gnumeric's ssconvert
+This Docker image converts .xls to .csv using gnumeric's ssconvert
 
 ## How to use
 
